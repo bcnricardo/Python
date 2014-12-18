@@ -1,4 +1,4 @@
-#Executes a root macro with 2 parameters
+#Executes a root macro with 2 parameters: root -b -q 'runDiLep.cxx("input.txt","outputHists.root")'
 import os
 import subprocess
 inputFile = 'input.txt';
